@@ -1,1 +1,1 @@
-escreva("hello world")
+escreva("ola mundo")
