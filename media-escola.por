@@ -1,2 +1,2 @@
-escreva("ola mundo")
+escreva("ola muendo")
 
